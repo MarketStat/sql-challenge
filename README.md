@@ -2,7 +2,7 @@
 
 **Purpose**
 
-THe purpose of this project is to show the different entities in a Entity Relationship Diagram (ERD) and creating a database in using PostGreSQL from CSVs with several tables to provide insights into the data and find helpful information on a specific timeframe for this fictional company.
+The purpose of this project is to show the different entities in a Entity Relationship Diagram (ERD) and creating a database in using PostGreSQL from CSVs with several tables to provide insights into the data and find helpful information on a specific timeframe for this fictional company.
 
 **Description**
 
